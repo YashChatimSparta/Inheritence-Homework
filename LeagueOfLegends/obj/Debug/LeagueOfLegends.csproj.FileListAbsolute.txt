@@ -1,0 +1,6 @@
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\bin\Debug\LeagueOfLegends.exe.config
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\bin\Debug\LeagueOfLegends.exe
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\bin\Debug\LeagueOfLegends.pdb
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\obj\Debug\LeagueOfLegends.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\obj\Debug\LeagueOfLegends.exe
+C:\Users\Yash Chatim\Engineering45\week2\Day1\LeagueOfLegends\LeagueOfLegends\obj\Debug\LeagueOfLegends.pdb
